@@ -1,0 +1,40 @@
+{
+
+  "filters": "Фильтры",
+  "choose_filter": "Выберите фильтр",
+  "empty_filters": "Фильтры пустые",
+  "empty_result": "Поиск не дал результатов",
+
+  "count": "Количество",
+  "export_csv": "Выгрузить в CSV",
+
+  "clear": "Очистить",
+
+    "bad_input_step": "Некоректный ввод",
+  "message": {
+    "start": "Старт",
+    "auth_error": "У вас недостаточно прав",
+    "administration": "Администратирование\r\nвыберите действие",
+    "registration": "У вас недостаточно прав. \r\nВведите код регистрации:",
+    "registration_error": "Неверный код регистрации",
+    "administration_active_tokens": "Активные коды регистрации:\r\n",
+    "delete": "Фильтры очищены",
+    "delete_all": "Очистить фильтры",
+    "filter_added": "Добавлен фильтр %s: %s",
+      "menu": "Меню",
+    "pattern": {
+
+    }
+  },
+  "message_enter": {
+
+  },
+  "search": "Поиск",
+  "administration": "Администрирование",
+  "pattern": "Маска",
+  "administration_generate_token": "Сгенерировать токен для регисрации",
+  "administration_active_tokens": "Активные токены",
+  "menu": "Меню",
+  "unknown_error_message": "При выполнении запроса возникла ошибка. Повторите запрос позже",
+  "db_error_request_canceled": "Ваш запрос недостаточно точный. Попробуйте добавить другие критерии поиска"
+}
